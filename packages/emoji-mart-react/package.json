@@ -18,7 +18,7 @@
     "prepublishOnly": "yarn build"
   },
   "peerDependencies": {
-    "emoji-mart": "^5.2",
+    "emoji-mart": "https://gitpkg.now.sh/ApsAd/emoji-mart/packages/emoji-mart?dev-custom-frequent-emoji-test",
     "react": "^16.8 || ^17 || ^18"
   },
   "files": [
